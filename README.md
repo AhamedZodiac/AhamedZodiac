@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AhamedZodiac
-- 👀 I’m interested in web development & ui/ux design 
+- 👀 I’m interested in web development & ui/ux design & web development 
 - 🌱 I’m currently learning graphic design 
 - 💞️ I’m looking to collaborate on designer 
 - 📫 How to reach me ahamedzodiac2012@gmail.com
-- 
+ 
   
 
 <!---
