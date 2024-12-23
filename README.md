@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning graphic design 
 - 💞️ I’m looking to collaborate on designer 
 - 📫 How to reach me ahamedzodiac2012@gmail.com
-- ⚡ Fun fact: joly type
+- 
   
 
 <!---
